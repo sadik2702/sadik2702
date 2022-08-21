@@ -2,7 +2,7 @@
 - 👀 I’m interested in html, css, js, bootstraps, tailwind
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate with other web developers
-- 📫 Reach me at Facebook: www.linkedin.com/in/sadik-rahman1
+- 📫 Reach me at Linkdn: www.linkedin.com/in/sadik-rahman1
 
 <!---
 sadik2702/sadik2702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
