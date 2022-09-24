@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sadik Rahman
-- 👀 I’m interested in html, css, js, bootstraps, tailwind
+- 👀 I’m interested in html, css, js, react, bootstraps, tailwind
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate with other web developers
 - 📫 Reach me at Linkdn: www.linkedin.com/in/sadik-rahman1
